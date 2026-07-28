@@ -1246,7 +1246,7 @@ img[src$="/images/skins/iconsets/default/bookmark-public.png"] {
 img[src$="/images/skins/iconsets/default/bookmark-private.png"] {
   color: #0000001a;
   background: url("https://zerafinacss.github.io/ao3/icons/bookmark-locked-01.png"), 
-    ##3E92CA;
+    #3E92CA;
   font-size: 0;
 }
 
